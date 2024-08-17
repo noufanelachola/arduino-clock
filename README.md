@@ -24,7 +24,7 @@ pip install -r python/requirements.txt
 ### Python
 1. Run the Python script to send the current time and day to the Arduino:
 `python clockp.py`.
-> Also dont forget to edit the COM port.
+2. Also dont forget to edit the COM port.
 
 ## License
 [Your chosen license]
