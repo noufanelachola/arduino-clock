@@ -18,12 +18,13 @@ pip install -r python/requirements.txt
 ## Usage
 
 ### Arduino
-1. Open the `arduino/clock_display.ino` file in the Arduino IDE.
+1. Open the `clock.ino` file in the Arduino IDE.
 2. Upload the code to your Arduino board.
 
 ### Python
 1. Run the Python script to send the current time and day to the Arduino:
-python python/clockp.py
+`python clockp.py`.
+> Also dont forget to edit the COM port.
 
 ## License
 [Your chosen license]
